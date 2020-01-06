@@ -96,16 +96,16 @@
     <Compile Include="Assets\PostProcessing\Editor\Utils\FxStyles.cs" />
     <Compile Include="Assets\PostProcessing\Editor\Utils\ReflectionUtils.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/ASUS/Desktop/Unity_VR_B1040410_kai/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/ASUS/Desktop/TUMT_Unity_VR_B1040410_kai/Unity_VR_B1040410_kai/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/ASUS/Desktop/Unity_VR_B1040410_kai/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/ASUS/Desktop/TUMT_Unity_VR_B1040410_kai/Unity_VR_B1040410_kai/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/ASUS/Desktop/Unity_VR_B1040410_kai/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/ASUS/Desktop/TUMT_Unity_VR_B1040410_kai/Unity_VR_B1040410_kai/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/ASUS/Desktop/Unity_VR_B1040410_kai/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/ASUS/Desktop/TUMT_Unity_VR_B1040410_kai/Unity_VR_B1040410_kai/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -291,7 +291,7 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.6f1/Editor/Data/Managed/Unity.Locator.dll</HintPath>
     </Reference>
     <Reference Include="Facebook.Unity.Settings">
-      <HintPath>C:/Users/ASUS/Desktop/Unity_VR_B1040410_kai/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+      <HintPath>C:/Users/ASUS/Desktop/TUMT_Unity_VR_B1040410_kai/Unity_VR_B1040410_kai/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.6f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
@@ -372,7 +372,7 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.6f1/Editor/Data/PlaybackEngines/Facebook/UnityEditor.Facebook.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Valve.Newtonsoft.Json">
-      <HintPath>C:/Users/ASUS/Desktop/Unity_VR_B1040410_kai/Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
+      <HintPath>C:/Users/ASUS/Desktop/TUMT_Unity_VR_B1040410_kai/Unity_VR_B1040410_kai/Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
       <HintPath>C:/Users/ASUS/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
